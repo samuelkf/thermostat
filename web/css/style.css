@@ -1,0 +1,19 @@
+body {
+	background: #393939;
+	color: white;
+	font: 14px Helvetica, sans-serif;
+}
+
+.status {
+	margin-top: 5px;
+}
+
+.button {
+	margin: 10px 5px 0 0;
+	cursor: pointer;
+	width: 29px;
+	height: 29px;
+	float: left;
+	text-align: center;
+	background: black;
+}
